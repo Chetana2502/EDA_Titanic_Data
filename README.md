@@ -33,4 +33,4 @@ The goal is to analyze survival patterns with respect to passenger demographics,
 ---
 
 ## 🚀 Deliverables
-- 📓 Jupyter Notebook: `eda_titanic.ipynb`  
+- 📓 Jupyter Notebook: `EDA.ipynb`  
